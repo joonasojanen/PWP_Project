@@ -27,7 +27,7 @@ The primary goal of this project is to deliver an API that not only offers detai
 -The API provides detailed traffic data for particular routes, helping users plan their cycling trips by understanding current conditions and potential delays.
 
 ### User Profiles:
--Each user can create and manage a personal profile that stores basic information, activity logs (such as posted comments), and a list of favorite locations. This personalization ensures a more tailored experience.
+-Each user can create and manage a personal profile.
 
 ### Favorite Locations:
 -Users have the option to add specific locations to their favorites, making it easier to access frequently checked routes and destinations.
