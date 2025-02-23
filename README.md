@@ -4,12 +4,12 @@
 
 # Group information
 
-| Name             | Student ID | Email                      |
-| ---------------- | ---------- | -------------------------- |
-| Janne Yrjänäinen | Y58554010  | jyrjanai20@student.oulu.fi |
-| Joona Syrjäkoski | Y58172266  | jsyrjako20@student.oulu.fi |
-| Joonas Ojanen    | 2305882    | jojanen20@student.oulu.fi  |
-| Lasse Rapo       | Y58553703  | lrapo20@student.oulu.fi    |
+| Name             |
+| ---------------- |
+| Janne Yrjänäinen |
+| Joona Syrjäkoski |
+| Joonas Ojanen    |
+| Lasse Rapo       |
 
 **Remember to include all required documentation and HOWTOs, including how to create and populate the database, how to run and test the API, the url to the entrypoint and instructions on how to setup and run the client**
 
