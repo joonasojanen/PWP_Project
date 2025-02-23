@@ -1,0 +1,16 @@
+tags:
+  - LocationItem
+description: Delete a location, requires admin authentication.
+summary: Delete a location
+parameters:
+  - in: path
+    name: location
+    required: true
+    schema:
+      type: string
+    description: The ID of the location to delete.
+security:
+  - BikinghubApiKey: []
+responses:
+  '204':
+    description: Location successfully deleted

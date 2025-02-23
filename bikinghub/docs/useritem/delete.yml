@@ -1,0 +1,17 @@
+tags:
+  - UserItem
+summary: Delete a user
+description: DELETE method for the user item. Deletes the resource. Requires api authentication.
+operationId: deleteUser
+security:
+  - BikinghubApiKey: []
+parameters:
+  - in: path
+    name: user
+    description: ID of the user to delete
+    required: true
+    schema:
+      type: string
+responses:
+  '204':
+    description: User successfully deleted
