@@ -11,7 +11,29 @@
 | Joonas Ojanen    |
 | Lasse Rapo       |
 
-**Remember to include all required documentation and HOWTOs, including how to create and populate the database, how to run and test the API, the url to the entrypoint and instructions on how to setup and run the client**
+## Project Description
+
+This project focuses on developing a comprehensive Weather and Biking Data API, inspired by the city of Oulu—a renowned cycling city where residents brave windy and snowy winters to commute by bike. The API is designed to provide real-time, reliable information about weather conditions and biking routes, serving as a crucial component in smart city infrastructures, mobile applications, and smart home systems.
+
+### Overview
+The primary goal of this project is to deliver an API that not only offers detailed weather forecasts and traffic data for specific routes. The API is built to integrate seamlessly into larger systems, enabling developers to include vital environmental and commuting information in various applications.
+
+## Key Features:
+
+### Weather Data Retrieval:
+-Users can request current and forecasted weather information for specific locations. This includes temperature, precipitation, wind speed, and other relevant meteorological data.
+
+### Traffic and Biking Data:
+-The API provides detailed traffic data for particular routes, helping users plan their cycling trips by understanding current conditions and potential delays.
+
+### User Profiles:
+-Each user can create and manage a personal profile that stores basic information, activity logs (such as posted comments), and a list of favorite locations. This personalization ensures a more tailored experience.
+
+### Favorite Locations:
+-Users have the option to add specific locations to their favorites, making it easier to access frequently checked routes and destinations.
+    
+### System Architecture:
+-The project is built around a RESTful API architecture, ensuring a scalable and maintainable system design. A dedicated database underpins the API, securely storing persistent data such as user profiles, favorite locations. This design facilitates efficient data retrieval and robust performance.
 
 
 ## Virtual environment
